@@ -18,8 +18,8 @@ return new class extends Migration
             $table->string('province');
             $table->string('photo');
             $table->integer('availableUnits');
-            $table->boolean('wifi');
-            $table->boolean('laundry');
+            $table->string('sqf');
+            $table->string('price');
         });
     }
 
