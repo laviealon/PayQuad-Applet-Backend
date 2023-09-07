@@ -9,4 +9,4 @@
 
 ## Property Lister - Backend
 
-The property lister API backend is built on Laravel. Property data is stored in a MySQL database, hosted on [PlanetScale](PlanetScale.com). 
+The property lister API backend is built on Laravel. Property data is stored in a MySQL database, hosted on [PlanetScale](https://www.planetscale.com). 
